@@ -1,0 +1,152 @@
+{
+    "data": [
+        {"ourgames" : [
+            {
+                "id": 1,
+                "image": "././picgame.png",
+                "title": "PREMIUM GAMES",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            },
+            {
+                "id": 2,
+                "image": "./downloader.png",
+                "title": "SUPER FAST DOWNLOADS",
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+            },
+            {
+                "id": 3,
+                "image": "./pricee.png",
+                "title": "GREAT PRICES",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            }
+        ],
+        "gamelist": [
+            {
+                "id": 1,
+                "image": "./ultimate.jpg",
+                "title": "GEARSOFWAR:ULTIMATE EDITION",
+                "category": "ACTION"
+            },
+            {
+                "id": 2,
+                "image": "./spiderman.jpg",
+                "title": "SPIDER MAN",
+                "category": "Action"
+            },
+            {
+                "id": 3,
+                "image": "./assasin mirage.avif",
+                "title": "Assasin's creed Mirage",
+                "category": "Adventure"
+            },
+            {
+                "id": 4,
+                "image": "./battle.jpg",
+                "title": "BATTLE CRASHER",
+                "category": "Casual"
+            },
+            {
+                "id": 5,
+                "image": "./gears of war.jpg",
+                "title": "Gears of war",
+                "category": "ACTION"
+            },
+            {
+                "id": 6,
+                "image": "residentevil.jpg",
+                "title": "RESIDENT EVIL 7",
+                "category": "SHOOTER"
+            },
+            {
+                "id": 7,
+                "image": "./sleepingdogs.jpg",
+                "title": "SLEEPING DOGS",
+                "category": "ACTION/ADVENTURE"
+            },
+            {
+                "id": 8,
+                "image": "./alanwake.jpg",
+                "title": "ALAN WAKE",
+                "category": "ADVENTURE"
+            }
+        ],
+      
+      
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "100+",
+                "title": "Free to play Games"
+            },
+            {
+                "id": 2,
+                "number": "100%",
+                "title": "Committment to improve your gaming experience"
+            },
+            {
+                "id": 3,
+                "number": "30+",
+                "title": "GAMES Uploaded Every Day"
+            },
+            {
+                "id": 4,
+                "number": "1500 +",
+                "title": "Games"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+           
+            {
+                "id": 5,
+                "title": "BUY GAMES",
+                "link": "order"
+            }
+        ],
+        "footerLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "FEATURES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "FAQ,s",
+                "link": "reservation"
+            }
+        ]
+    
+    
+    } 
+    ]
+}
+

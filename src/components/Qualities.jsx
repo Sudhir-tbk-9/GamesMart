@@ -1,0 +1,32 @@
+import React from 'react'
+import {data} from '../myData.json'
+const Qualities = () => {
+  return (
+    <>
+    <div className='premium'>
+      
+      <h1>PREMIUM GAMES</h1> </div>
+        <section className='qualities' id='qualities'>
+          <div className="container">
+            {
+              data[0].ourgames.map(element=>{
+                return(
+                  <div className='card' key={element.id}>
+                      <img src={element.image} alt={element.title} />
+                      <p className='title'>{element.title}</p>
+                      <p className='description'>{element.description}</p>
+                  
+                  </div>
+                )
+              })
+            }
+             
+          </div>
+       
+        </section>
+   
+    </>
+  )
+}
+
+export default Qualities
